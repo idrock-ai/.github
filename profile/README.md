@@ -8,10 +8,10 @@
   We build open models, datasets, and evaluation infrastructure for the Uzbek
   language and beyond — and provide GPU compute to researchers in Uzbekistan.
 
-  [🌐 idrock.uz](https://idrock.uz) ·
+  [🌍 idrock.uz](https://idrock.uz) ·
   [🤗 Hugging Face](https://huggingface.co/idrock) ·
-  [📊 eval.idrock.uz](https://eval.idrock.uz) ·
-  [✉️ idrock@newuu.uz](mailto:idrock@newuu.uz)
+  [🧪 eval.idrock.uz](https://eval.idrock.uz) ·
+  [📬 idrock@newuu.uz](mailto:idrock@newuu.uz)
 
   Used our GPU cluster? Please acknowledge us — see
   **[How to cite IDROCK](https://github.com/idrock-ai/.github/blob/main/CITING.md)**.
