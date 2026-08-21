@@ -54,6 +54,10 @@ Each of our repositories carries its own citation:
 
 ## 4. For lab members: affiliation in papers
 
+Starting a paper? Begin from our
+[paper template](https://github.com/idrock-ai/paper-template) — the
+affiliation, acknowledgment, and standard BibTeX entries are already in place.
+
 Use this exact affiliation string in every byline, arXiv submission, and
 profile — consistency is what makes the lab's output countable:
 
